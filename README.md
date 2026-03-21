@@ -19,14 +19,14 @@
 * 🌱 Exploring **Node.js, Express & Backend Development**
 * 🎯 Goal: Become a **Full Stack Developer**
 
----
+
 
 # 💼 Career Status
 
 🟢 **Open for Frontend Developer Roles**
 🌍 Available for **Remote / On-site Opportunities**
 
----
+
 
 # 🛠 Tech Stack
 
@@ -48,7 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
----
+
 
 # 💻 Tech Icons
 
@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
----
+
 
 # ⭐ Featured Projects
 
@@ -93,22 +93,21 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikespandey&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rishikespandey&show_icons=true&theme=tokyonight" />
-
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikespandey&theme=tokyo-night"/>
 
----
+🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikespandey&theme=tokyonight"/>
+</p>
 
 # 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
+
 
 # 🔗 Connect With Me
 
@@ -120,7 +119,7 @@
 
 </p>
 
----
+
 
 # 👀 Profile Views
 
@@ -128,7 +127,7 @@
 <img src="https://komarev.com/ghpvc/?username=Rishikespandey&color=blue">
 </p>
 
----
+
 
 # ⚡ Fun Fact
 
