@@ -96,8 +96,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishikespandey&theme=flat&no-frame=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Rishikespandey&theme=tokyonight" />
 
 # 📈 Contribution Graph
 
